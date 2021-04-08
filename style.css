@@ -1,0 +1,73 @@
+a, abbr, acronym, address, applet, big, blockquote, body, button, caption, cite, code, dd, del, dfn, div, dl, dt, em, fieldset, form, h1, h2, h3, h4, h5, h6, html, iframe, img, input, ins, kbd, label, legend, li, object, ol, p, pre, q, s, samp, small, span, strike, strong, sub, sup, table, tbody, td, tfoot, th, thead, tr, tt, ul, var {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  vertical-align: baseline;
+}
+
+h1
+{
+     color: black;
+     background-image: url("https://scontent-cdt1-1.cdninstagram.com/v/t51.2885-15/e35/s320x320/122400586_125257142681981_1456389067274359518_n.jpg?tp=1&_nc_ht=scontent-cdt1-1.cdninstagram.com&_nc_cat=105&_nc_ohc=nERkO7g3s_AAX-6FCK1&edm=ABfd0MgAAAAA&ccb=7-4&oh=f9f3caac1bcd937ff17db6b555a8b66a&oe=6095A16A&_nc_sid=7bff83");
+     font-size: 100px;
+     margin-top: 0;
+}
+
+body
+{
+    font-family: arial, sans-cerif;
+    font-size: 17px;
+    color: black;
+    line-height: 1.6;
+}
+#carte
+{
+ width: 1200px;
+
+margin:0 auto;
+
+background-color: white;
+
+text-align: center;
+
+align-content: center;
+}
+
+ul li
+{
+	list-style-type: none;
+    position: relative;
+    width: 80%;
+    margin: 0 auto;
+    border: 2px solid;
+    border-radius: 20px;
+    border-color: black;
+    margin-bottom: 80px;
+}
+
+#showcase{
+	background-image: url("https://images.pexels.com/photos/3697742/pexels-photo-3697742.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+	background-position: center;
+	background-attachment: fixed;
+}
+
+p{
+	font-size: 1.3em;
+    margin: 0 auto;
+    width: 90%;
+}
+h2{
+	font-size: 2.3em;
+}
+h3{
+    margin-top: 50px;
+	background-color: #FFDEAD;
+}
+h2{
+	font-size: 2.3em;
+}
+h3{
+    margin-top: 50px;
+	background-color: #FFDEAD;
+}
